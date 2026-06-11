@@ -92,4 +92,4 @@ I communicate clearly with product, design, and backend teams, and I am comforta
 - **Email:** brasileirodev@gmail.com
 - **GitHub:** [github.com/brasileirodev](https://github.com/brasileirodev)
 - **Portfolio:** [brasileirodev.com.br](https://brasileirodev.com.br)
-- **Resume/CV:** *(add your CV link here)*
+- **Resume/CV:** [Marcel Brasileiro Resume](https://drive.google.com/file/d/1CuUkC-U-uwbQuLa_CVslJ4RaRo5BKEsn/view?usp=sharing)
